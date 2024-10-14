@@ -1,0 +1,29 @@
+/* Center align titles */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Styling metrics */
+.stMetric {
+    border-radius: 10px;
+    background-color: #e0f7fa;
+    padding: 10px;
+}
+
+/* Sidebar customization */
+.sidebar .sidebar-content {
+    background-color: #25D366;
+}
+
+.sidebar .sidebar-content h1, h2, h3 {
+    color: white;
+}
+
+button[kind="primary"] {
+    background-color: #075e54;
+    color: white;
+}
+
+button[kind="primary"]:hover {
+    background-color: #128c7e;
+}
